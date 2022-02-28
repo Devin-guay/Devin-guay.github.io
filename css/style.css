@@ -1,0 +1,30 @@
+body {background-image:
+   radial-gradient(#c74216,#1f6b65 );
+font-family: Dangermode, Calibri, Arial;
+}
+h1 {
+  font-family: camdara , Calibri, Arial;
+  text-align: center;
+}
+#content{
+  margin: auto;
+  width: 250px
+  text-align: justify;
+}
+.segment{
+  padding: 10px;
+  border: 9px dotted #d90da6;
+}
+p{
+  margin-top: 0px;
+}
+.segment img{
+  max-width: 500px;
+  float: left;
+  margin: 0px 15px 10px 0px;
+}
+
+.segment .centerimg{
+  float: none;
+  
+}
