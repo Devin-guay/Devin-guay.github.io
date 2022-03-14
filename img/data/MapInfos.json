@@ -1,0 +1,21 @@
+[
+null,
+{"id":1,"expanded":false,"name":"outside house","order":2,"parentId":8,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":2,"expanded":false,"name":"inside home","order":4,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"path","order":5,"parentId":8,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"boulder pass","order":6,"parentId":3,"scrollX":1216.5,"scrollY":748.5},
+{"id":5,"expanded":false,"name":"ruined house","order":9,"parentId":10,"scrollX":1638,"scrollY":922},
+{"id":6,"expanded":false,"name":"basment","order":3,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"debug room","order":18,"parentId":13,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"land mass","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":825.3333333333334},
+{"id":9,"expanded":false,"name":"bolder dungeon","order":7,"parentId":4,"scrollX":2433,"scrollY":1383},
+{"id":10,"expanded":false,"name":"forest","order":8,"parentId":3,"scrollX":1663.5,"scrollY":1383},
+{"id":11,"expanded":false,"name":"ruined house inside","order":10,"parentId":5,"scrollX":1638,"scrollY":922},
+{"id":12,"expanded":true,"name":"Atown","order":11,"parentId":3,"scrollX":1194.6666666666667,"scrollY":1469.3333333333333},
+{"id":13,"expanded":true,"name":"init","order":17,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":14,"expanded":false,"name":"thives guild","order":12,"parentId":12,"scrollX":1081.3333333333333,"scrollY":1228},
+{"id":15,"expanded":true,"name":"Guard building","order":13,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":16,"expanded":false,"name":"jail","order":16,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":17,"expanded":false,"name":"inn","order":14,"parentId":12,"scrollX":1228.5,"scrollY":691.5},
+{"id":18,"expanded":false,"name":"wepons","order":15,"parentId":12,"scrollX":1092,"scrollY":614.6666666666666}
+]
